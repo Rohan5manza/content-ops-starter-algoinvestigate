@@ -149,7 +149,7 @@ sections:
       text: Buy my books
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: A series of my publications
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
