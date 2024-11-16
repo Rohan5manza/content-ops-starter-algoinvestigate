@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: The Algorithmic Investigator
-        tagline: Feature 2
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
