@@ -42,7 +42,49 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Personal brand of Rohan Anil Marar
-    text: ''
+    text: >+
+      This is my personal brand. 
+
+
+      I love **Sherlock Holmes** and his crime solving stories. I love **Albert
+      Einstein** and his work in modern physics. I love Tony Stark's **Iron
+      Man**. Growing up, I always wanted to be like these guys. I love engaging
+      in daydreaming and imaginations, conducting thought experiments and
+      thinking about theories. I am a visionary and a futurist. I intend to
+      never give up on that child within me, that is always curious about
+      stuff.  
+
+
+      This brand is about exploring the world of hypotheses and possibilities in
+      technology, with the spirit of a **mystery solver**.
+
+
+      I write on many topics. This is mostly for my writings on topics such as
+      mechanistic interpretability, abstract concepts like consciousness,
+      mysteries surrounding deep learning and modern physics. I believe that
+      mech interp is a subject with huge scope, that can turn into commerical
+      practical domain with business uses. 
+
+
+      This is about pursuing a topic that I am curious about, with the spirit of
+      Sherlock Holmes, and writing about my journey and my ideas. I find that it
+      is best for me when I pursue something with an "**investigative**"
+      approach, like solving a mystery. 
+
+
+      I also write a lot on many other topics, such as business, politics,
+      history, physics, etc. Fiction, non-fiction, etc, both for normal blogs
+      and articles, and as books I publish as a professional **author**. 
+
+
+      "**The Algorithmic Investigator**" is hence a **pen name** I have adopted
+      as an author, not just because I work with algorithms, but because there
+      is elegance in the methods that can adopted by anyone studying a subject,
+      by breaking down complex concepts into simple steps like an algorithm to
+      be followed: a process of observation, deduction, and imagination. 
+
+
+
     actions: []
     media:
       url: /images/the algorithmic investigator.webp
