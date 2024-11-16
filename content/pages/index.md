@@ -198,7 +198,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: Rohan Anil Marar
         tagline: ''
         subtitle: ''
         text: >+
