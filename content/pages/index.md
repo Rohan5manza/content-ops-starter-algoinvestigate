@@ -146,7 +146,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Buy my books
+      text: Buy my book
       color: text-dark
       type: TitleBlock
     subtitle: A series of my publications
