@@ -165,7 +165,7 @@ sections:
       applying deep learning, all while indulging your inner detective
 
     actions:
-      - label: 'Kindle edition '
+      - label: Kindle edition ( 199/- Rupees)
         url: >-
           /https://www.amazon.in/Deep-Learning-deciphered-understanding-investigative-ebook/dp/B0DB8J7B65
         icon: arrowRight
