@@ -149,7 +149,7 @@ sections:
       text: Buy my book
       color: text-dark
       type: TitleBlock
-    subtitle: A series of my publications
+    subtitle: ''
     text: >+
       This book takes readers on a journey through the intricate world of neural
       networks, guided by the timeless logic and keen observation of Sherlock
