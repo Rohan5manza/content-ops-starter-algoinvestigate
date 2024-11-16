@@ -179,7 +179,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       url: /images/Screenshot 2024-07-26 140345.png
