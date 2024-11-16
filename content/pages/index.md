@@ -119,7 +119,7 @@ sections:
     actions:
       - type: Button
         label: Link
-        url: ''
+        url: 'https://algoinvestigate.substack.com/'
         icon: arrowRight
         iconPosition: right
         style: secondary
