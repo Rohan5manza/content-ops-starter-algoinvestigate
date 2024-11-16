@@ -172,6 +172,15 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.amazon.com/dp/B0DB8NYN4Z'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Screenshot 2024-07-26 140345.png
       altText: Fun feature preview
