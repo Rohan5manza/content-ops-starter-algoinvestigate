@@ -43,16 +43,7 @@ sections:
       type: TitleBlock
     subtitle: Personal brand of Rohan Anil Marar
     text: ''
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/the algorithmic investigator.webp
       altText: Unblock your team boost your time to production preview
