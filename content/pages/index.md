@@ -203,10 +203,12 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: ''
         subtitle: Rohan Anil Marar
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          I am always passionate to create and invent new stuff, and gain
+          knowledge and expertise of things related to science and technology
+          that interest me. I always approach a subject of my interest with
+          curiosity and a first-principles basi
+
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-06-23 172553.png
