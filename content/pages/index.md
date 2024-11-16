@@ -165,7 +165,7 @@ sections:
       applying deep learning, all while indulging your inner detective
 
     actions:
-      - label: Get started
+      - label: 'Kindle edition '
         url: /
         icon: arrowRight
         iconPosition: right
