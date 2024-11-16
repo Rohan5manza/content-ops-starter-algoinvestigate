@@ -166,7 +166,8 @@ sections:
 
     actions:
       - label: 'Kindle edition '
-        url: /
+        url: >-
+          /https://www.amazon.in/Deep-Learning-deciphered-understanding-investigative-ebook/dp/B0DB8J7B65
         icon: arrowRight
         iconPosition: right
         style: secondary
