@@ -150,9 +150,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A series of my publications
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      This book takes readers on a journey through the intricate world of neural
+      networks, guided by the timeless logic and keen observation of Sherlock
+      Holmes. In this unique and engaging book, you'll explore deep learning
+      concepts not just as theoretical knowledge but as puzzles to be solved and
+      mysteries to be unraveled. Combining technical insights with practical
+      advice, this book offers a unique approach for developers looking to
+      master the art of artificial intelligence, making complex ideas accessible
+      and compelling. Whether you're a seasoned professional or a curious
+      newcomer, this book provides a fresh perspective on understanding and
+      applying deep learning, all while indulging your inner detective
+
     actions:
       - label: Get started
         url: /
