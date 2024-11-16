@@ -118,7 +118,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Link
         url: /
         icon: arrowRight
         iconPosition: right
