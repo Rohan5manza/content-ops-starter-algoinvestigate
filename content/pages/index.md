@@ -173,7 +173,7 @@ sections:
         style: secondary
         type: Button
       - type: Button
-        label: 'Paperback(USA)( '
+        label: Paperback(USA)( $5.00 )
         altText: ''
         url: 'https://www.amazon.com/dp/B0DB8NYN4Z'
         showIcon: false
