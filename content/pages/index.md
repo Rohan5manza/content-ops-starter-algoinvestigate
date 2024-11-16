@@ -173,7 +173,7 @@ sections:
         style: secondary
         type: Button
       - type: Button
-        label: Get started
+        label: 'Paperback(USA)( '
         altText: ''
         url: 'https://www.amazon.com/dp/B0DB8NYN4Z'
         showIcon: false
