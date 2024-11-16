@@ -195,7 +195,7 @@ sections:
         alignItems: center
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
