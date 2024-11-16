@@ -109,7 +109,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Follow my Substack
       color: text-dark
     subtitle: Increase your reach
     text: >
