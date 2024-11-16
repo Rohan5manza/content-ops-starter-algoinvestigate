@@ -200,7 +200,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Rohan Anil Marar
+        subtitle: ''
         text: >+
           I am always passionate to create and invent new stuff, and gain
           knowledge and expertise of things related to science and technology
