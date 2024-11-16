@@ -112,9 +112,10 @@ sections:
       text: Follow my Substack
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      This is where I publish most of my articles. Subscribe to my Substack for
+      regular updates.
+
     actions:
       - type: Button
         label: Get started
